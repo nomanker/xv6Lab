@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.md": "markdown",
+        "types.h": "c",
+        "user.h": "c"
+    }
+}
